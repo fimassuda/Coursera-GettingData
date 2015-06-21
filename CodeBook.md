@@ -4,7 +4,7 @@
 * [1] "subject" - Volunteer ID within age bracket of 19-48 years
 * [2] "activity" - Activity performed by the volunteer.
 
-  Possible values: 
+  Possible activity values: 
   * Walking
   * Walking Upstairs
   * Walking Downstairs
