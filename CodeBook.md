@@ -1,8 +1,8 @@
 # Code Book
 
 ## Identification
-[1] "subject" - Volunteer ID within age bracket of 19-48 years
-[2] "activity" - Activity performed by the volunteer.
+* [1] "subject" - Volunteer ID within age bracket of 19-48 years
+* [2] "activity" - Activity performed by the volunteer.
 
   Possible values: 
   * Walking
